@@ -20,7 +20,6 @@
 
 <div align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=SakuraMotoKoi&theme=onedark](https://github-readme-activity-graph.vercel.app/graph?username=SakuraMotoKoi&theme=react-dark)"></div>  
 
-***
 
 <div class="basic_image" align="center"> <img src=".\228083.jpg" height=360px width=570px></div>
 
