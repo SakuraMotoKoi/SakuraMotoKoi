@@ -2,3 +2,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraMotoKoi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=SakuraMotoKoi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SakuraMotoKoi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E4%B8%BA%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%83%AD%E7%88%B1%E8%80%8C%E5%A5%8B%E6%96%97!)](https://git.io/typing-svg)  
