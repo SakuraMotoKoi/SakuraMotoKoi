@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>  
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=桜の下の恋です;为实现自己的梦想而奋斗!&center=true&size=27"> </a> </h1>  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuraMotoKoi&show_icons=true&theme=onedark)  
