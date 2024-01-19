@@ -2,21 +2,21 @@
 
 <div class="basic_image" align="center"> <img src=".\228083.jpg" height=360px width=570px></div>
 
-<hr width=1px>
+<hr height=1px>
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SakuraMotoKoi&show_icons=true&theme=onedark"></div>  
 
 
-<hr width=3px>
+<hr height=3px>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraMotoKoi&theme=tokyonight"></div>  
 
-<hr width=1px>
+<hr height=1px>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SakuraMotoKoi&theme=onedark"></div>  
 
-<hr width=1px>
+<hr height=1px>
 
 <div align="center"> <img src="[https://github-profile-trophy.vercel.app/?username=SakuraMotoKoi&theme=onedark](https://github-readme-activity-graph.vercel.app/graph?username=SakuraMotoKoi&theme=react-dark)"></div>  
 
