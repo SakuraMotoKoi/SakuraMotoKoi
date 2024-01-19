@@ -2,8 +2,6 @@
 
 <a href="https://space.bilibili.com/660127072/" align="center"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>
 
-<div class="basic_image" align="center"> <img src=".\228083.jpg" height=360px width=570px></div>
-
 ***
 
 
