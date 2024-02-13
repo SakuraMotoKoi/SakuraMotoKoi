@@ -7,7 +7,14 @@
 
 ## Links
 <!-- 链接展示 -->
-<div class="links" align="center"><a href="https://space.bilibili.com/660127072/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a></div>
+<div class="links" align="center">
+  <a href="https://space.bilibili.com/660127072/">
+    <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" />
+  </a>
+  <a href="https://home.cnblogs.com/u/3390763">
+    <img src="https://img.shields.io/badge/Cnblogs-博客园-blue" />
+  </a>
+</div>
 
 ## About
 - A computer science lover
