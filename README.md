@@ -11,8 +11,8 @@
   <a href="https://space.bilibili.com/660127072/">
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" />
   </a>
-  <a href="https://home.cnblogs.com/u/3390763">
-    <img src="https://img.shields.io/badge/Cnblogs-博客园-blue" />
+  <a href="https://www.cnblogs.com/SakuraMotoKoi">
+    <img src="https://img.shields.io/badge/Blog-博客-blue" />
   </a>
 </div>
 
